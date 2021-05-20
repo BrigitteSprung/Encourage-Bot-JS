@@ -9,4 +9,4 @@ Methods:
 --> $list
 --> $inspire
 --> $new "message"
---> $del <index>
+--> $del "index"
